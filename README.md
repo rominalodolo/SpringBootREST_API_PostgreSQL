@@ -1,4 +1,4 @@
-# SprintBootREST_API_PostgreSQL_youtube
+# Spring Boot REST API using PostgreSQL and JWT
 [YouTube Tutorial found here](https://www.youtube.com/playlist?list=PLWieu6NbbqTwwYwylgXmmKVX1ZWsUVx8m) 
 > by Pair Learning
 > 
