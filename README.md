@@ -6,8 +6,8 @@
 
 
 ## Downloads 
-- Postman 
-- Docker 
+- [Postman](https://www.postman.com) 
+- [Docker](https://www.docker.com) 
 
 I had a problem with my docker installation becuase the latest version isn't compatible with MAC OS 10.13.6
 So I deleted the version I initially downloaded via terminal and bash commands and then downloaded version 2.3.5.0 
