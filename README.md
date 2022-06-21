@@ -8,6 +8,8 @@
 ## Downloads 
 - [Postman](https://www.postman.com) 
 - [Docker](https://www.docker.com) 
+- [Postgres](https://postgresapp.com)
+- [Postgres in Docker](https://hub.docker.com/_/postgres)
 
 I had a problem with my docker installation becuase the latest version isn't compatible with MAC OS 10.13.6
 So I deleted the version I initially downloaded via terminal and bash commands and then downloaded version 2.3.5.0 
