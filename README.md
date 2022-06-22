@@ -59,6 +59,7 @@ Running commands after opening the terminal at folder
 ![opennew](https://user-images.githubusercontent.com/83961643/175016787-ccc63457-035d-40fb-9e0b-e389a200c0e1.jpeg)
 
 
+![applicationprops](https://user-images.githubusercontent.com/83961643/175018025-a59fcc9e-5a03-4b9f-8db7-4ce15c06e983.jpeg)
 
 
 
