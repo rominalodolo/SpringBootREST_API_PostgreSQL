@@ -28,6 +28,9 @@ Click Generate and download the zip file which you then unzip
 Then drag and rop your unziped file into InteliJ which will then create a new project for you 
 ![new](https://user-images.githubusercontent.com/83961643/175003934-e68cf768-084c-4078-aff4-2463253f410a.jpeg)
 
+Your main class auto generated
+![mainclass](https://user-images.githubusercontent.com/83961643/175004377-aa35872c-d186-4bfe-8571-bfbf9ea4ea9c.jpeg)
+
 
 
 ## Setting up Docker with Postgres via command line
