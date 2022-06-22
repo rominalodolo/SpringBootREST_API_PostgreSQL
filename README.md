@@ -42,6 +42,24 @@ Your main class auto generated
 ` docker container ls `
 
 
+## Creating the database & connections 
+New file `expensetracker_db.sql`
+![sqlfile](https://user-images.githubusercontent.com/83961643/175011614-418efc0e-59b3-4ef9-8db0-f733d9efa523.jpeg)
+
+Running commands after opening the terminal at folder 
+`docker cp expensetracker_db.sql postgresdb:/`
+
+`docker container exec -it postgresdb bash`
+
+`ls`
+
+`psql -U postgres --file expensetracker_db.sql`
+
+
+![opennew](https://user-images.githubusercontent.com/83961643/175016787-ccc63457-035d-40fb-9e0b-e389a200c0e1.jpeg)
+
+
+
 
 
 
