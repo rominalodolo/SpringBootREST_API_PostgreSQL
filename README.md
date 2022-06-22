@@ -22,4 +22,16 @@ Initializing your Spring project via the web page [Spring Initializer](https://s
 ![springinit](https://user-images.githubusercontent.com/83961643/175000705-d25334fd-d332-448c-b23d-14aadd84cff9.jpeg)
 
 
+## Setting up Docker with Postgres via command line
+
+` docker container run --name postgresdb -e POSTGRES_PASSWORD=****** -d -p 5432:5432 postgres `
+
+![terminal](https://user-images.githubusercontent.com/83961643/175002592-dc073636-c988-46a5-8b66-88bee490945c.jpeg)
+
+` docker container ls `
+
+
+
+
+
 ## Last Edit June 2022
