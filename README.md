@@ -21,6 +21,14 @@ So I deleted the version I initially downloaded via terminal and bash commands a
 Initializing your Spring project via the web page [Spring Initializer](https://start.spring.io)
 ![springinit](https://user-images.githubusercontent.com/83961643/175000705-d25334fd-d332-448c-b23d-14aadd84cff9.jpeg)
 
+Click Generate and download the zip file which you then unzip 
+
+![files](https://user-images.githubusercontent.com/83961643/175003515-9f0b0689-b419-4712-8a41-e6bf6b49f8c6.jpeg)
+
+Then drag and rop your unziped file into InteliJ which will then create a new project for you 
+![new](https://user-images.githubusercontent.com/83961643/175003934-e68cf768-084c-4078-aff4-2463253f410a.jpeg)
+
+
 
 ## Setting up Docker with Postgres via command line
 
