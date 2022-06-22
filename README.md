@@ -19,6 +19,7 @@ So I deleted the version I initially downloaded via terminal and bash commands a
 
 ## Initializr 
 Initializing your Spring project via the web page [Spring Initializer](https://start.spring.io)
+![springinit](https://user-images.githubusercontent.com/83961643/175000705-d25334fd-d332-448c-b23d-14aadd84cff9.jpeg)
 
 
 ## Last Edit June 2022
