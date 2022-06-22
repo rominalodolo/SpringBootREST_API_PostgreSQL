@@ -42,6 +42,9 @@ Your main class auto generated
 ` docker container ls `
 
 
+## Creating the database & connections 
+New file `expensetracker_db.sql`
+![sqlfile](https://user-images.githubusercontent.com/83961643/175011614-418efc0e-59b3-4ef9-8db0-f733d9efa523.jpeg)
 
 
 
