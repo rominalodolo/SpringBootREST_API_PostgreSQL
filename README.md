@@ -62,6 +62,7 @@ Running commands after opening the terminal at folder
 ![applicationprops](https://user-images.githubusercontent.com/83961643/175018025-a59fcc9e-5a03-4b9f-8db7-4ce15c06e983.jpeg)
 
 
+Create a resources package under your com.pairlearning.expensetrackerapi and then create a UserResource class inside it: 
 ![userresourceclass](https://user-images.githubusercontent.com/83961643/175019953-94c1b035-1bfe-4e57-a7fa-31ba21bc6fab.jpeg)
 
 
