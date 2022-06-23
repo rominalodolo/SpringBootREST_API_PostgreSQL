@@ -1,8 +1,8 @@
 package com.pairlearning.expensetrackerapi.services;
 
-import com.pairlearning.expensetracker.domain.User;
-import com.pairlearning.expensetracker.exceptions.EtAuthException;
-import com.pairlearning.expensetracker.repositories.UserRepository;
+import com.pairlearning.expensetrackerapi.exceptions.EtAuthException;
+import com.pairlearning.expensetrackerapi.repositories.UserRepository;
+import com.pairlearning.expensetrackerapi.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -25,13 +25,13 @@ public class UserServicesImpl implements UserService {
     @Override
     public User registerUser(String firstName, String lastName, String email, String password) throws EtAuthException {
         Pattern pattern = Pattern.compile("^(.+)@(.+)$");
-        if(email != null) email = email.toLowerCase();
-        if(!pattern.matcher(email).matches())
+        if (email != null) email = email.toLowerCase();
+        if (!pattern.matcher(email).matches())
             throw new EtAuthException("Invalid email format");
         Integer count = userRepository.getCountByEmail(email);
-        if(count > 0)
+        if (count > 0)
             throw new EtAuthException("Email already in use");
         Integer userId = userRepository.create(firstName, lastName, email, password);
         return userRepository.findById(userId);
-
+    }
 }
