@@ -1,8 +1,8 @@
 package com.pairlearning.expensetrackerapi.services;
 
-import com.pairlearning.expensetracker.domain.Category;
-import com.pairlearning.expensetracker.exceptions.EtBadRequestException;
-import com.pairlearning.expensetracker.exceptions.EtResourceNotFoundException;
+import com.pairlearning.expensetrackerapi.domain.Category;
+import com.pairlearning.expensetrackerapi.exceptions.EtBadRequestException;
+import com.pairlearning.expensetrackerapi.exceptions.EtResourceNotFoundException;
 
 import java.util.List;
 
