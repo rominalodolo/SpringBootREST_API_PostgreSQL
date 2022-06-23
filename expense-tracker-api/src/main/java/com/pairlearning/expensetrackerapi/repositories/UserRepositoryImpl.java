@@ -4,6 +4,7 @@ import com.pairlearning.expensetrackerapi.domain.User;
 import com.pairlearning.expensetrackerapi.exceptions.EtAuthException;
 import org.mindrot.jbcrypt.BCrypt;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
@@ -74,5 +75,5 @@ public class UserRepositoryImpl {
                 rs.getString("LAST_NAME"),
                 rs.getString("EMAIL"),
                 rs.getString("PASSWORD"));
-
+    }
 }
