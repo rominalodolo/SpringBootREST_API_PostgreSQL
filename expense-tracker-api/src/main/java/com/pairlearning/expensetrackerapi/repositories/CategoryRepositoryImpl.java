@@ -1,5 +1,7 @@
 package com.pairlearning.expensetrackerapi.repositories;
 
+
+import com.pairlearning.expensetrackerapi.domain.Category;
 import com.pairlearning.expensetrackerapi.exceptions.EtBadRequestException;
 import com.pairlearning.expensetrackerapi.exceptions.EtResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,6 +10,10 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.support.GeneratedKeyHolder;
 import org.springframework.jdbc.support.KeyHolder;
 import org.springframework.stereotype.Repository;
+
+import java.sql.PreparedStatement;
+import java.sql.Statement;
+import java.util.List;
 
 @Repository
 public class CategoryRepositoryImpl implements CategoryRepository {
