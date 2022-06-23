@@ -67,5 +67,9 @@ Create a resources package under your com.pairlearning.expensetrackerapi and the
 
 
 ## Open Postman  
+Create a new Request and set it to POST 
+then add body - set to raw , JSON 
+![postman](https://user-images.githubusercontent.com/83961643/175246726-9f73bd31-98b2-4670-ae7c-536bff9a4310.jpeg)
+click send 
 
 ## Last Edit June 2022
