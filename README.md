@@ -77,4 +77,15 @@ Creating constructors, Getter and setter methods
 ![User_gettersandsetters](https://user-images.githubusercontent.com/83961643/175307574-ebc402ab-9de1-4fd5-88ee-55e1e85b4e18.jpeg)
 
 
+## More posts on Postman 
+
+![createwrongpost](https://user-images.githubusercontent.com/83961643/175343616-adbda3cd-a6ea-40d5-852e-0163a75446cd.jpeg)
+
+
+
+## Adding missing dependencies to POM file 
+![dependencies](https://user-images.githubusercontent.com/83961643/175343704-3e6f52af-b948-4a8f-88af-9256928ea109.jpeg)
+
+
+
 ## Last Edit June 2022
