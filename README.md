@@ -72,4 +72,9 @@ then add body - set to raw , JSON
 ![postman](https://user-images.githubusercontent.com/83961643/175246726-9f73bd31-98b2-4670-ae7c-536bff9a4310.jpeg)
 click send 
 
+## More File and Class creations
+Creating constructors, Getter and setter methods
+![User_gettersandsetters](https://user-images.githubusercontent.com/83961643/175307574-ebc402ab-9de1-4fd5-88ee-55e1e85b4e18.jpeg)
+
+
 ## Last Edit June 2022
