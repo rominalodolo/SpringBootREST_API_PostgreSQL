@@ -78,10 +78,7 @@ Creating constructors, Getter and setter methods
 
 
 ## More posts on Postman 
-
 ![createwrongpost](https://user-images.githubusercontent.com/83961643/175343616-adbda3cd-a6ea-40d5-852e-0163a75446cd.jpeg)
-
-![terminalpostmantests](https://user-images.githubusercontent.com/83961643/175351007-27516b96-262a-4e27-bb32-8dd5ad641a5e.jpeg)
 
 
 ## Adding missing dependencies to POM file 
@@ -89,6 +86,9 @@ Creating constructors, Getter and setter methods
 
 Command line prompts to see the outcome of postman posts as seen in the video 
 ![command](https://user-images.githubusercontent.com/83961643/175343889-df3c84e6-ca81-4140-9084-2ae7fd8e4568.jpeg)
+![terminalpostmantests](https://user-images.githubusercontent.com/83961643/175351007-27516b96-262a-4e27-bb32-8dd5ad641a5e.jpeg)
+
+
 
 ## [JWT](https://jwt.io)
 ![jwt](https://user-images.githubusercontent.com/83961643/175350990-f921ee89-19b3-47ba-ad8f-f8147f04b314.jpeg)
