@@ -86,6 +86,10 @@ Creating constructors, Getter and setter methods
 ## Adding missing dependencies to POM file 
 ![dependencies](https://user-images.githubusercontent.com/83961643/175343704-3e6f52af-b948-4a8f-88af-9256928ea109.jpeg)
 
+Command line prompts to see the outcome of postman posts as seen in the video 
+![command](https://user-images.githubusercontent.com/83961643/175343889-df3c84e6-ca81-4140-9084-2ae7fd8e4568.jpeg)
+
+
 
 
 ## Last Edit June 2022
