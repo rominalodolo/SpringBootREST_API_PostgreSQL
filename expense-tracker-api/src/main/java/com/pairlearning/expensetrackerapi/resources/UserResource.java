@@ -32,9 +32,8 @@ public class UserResource {
         return new ResponseEntity<>(generateJWTToken(user), HttpStatus.OK);
     }
 
-
     @PostMapping("/register")
-    public String registerUser(@RequestBody Map<String, Object> userMap) {
+    public ResponseEntity<Map<String, String>> registerUser(@RequestBody Map<String, Object> userMap) {
         String firstName = (String) userMap.get("firstName");
         String lastName = (String) userMap.get("lastName");
         String email = (String) userMap.get("email");
@@ -43,15 +42,7 @@ public class UserResource {
         return new ResponseEntity<>(generateJWTToken(user), HttpStatus.OK);
     }
 
-        // return firstName + ", " + lastName + ", " + email + ", " + password;
-
-//        User user = UserService.registerUser(firstName, lastName, email, password);
-//        Map<String, String> map = new HashMap<>();
-//        map.put("message", "registered successfully");
-//        return new ResponseEntity<>(generateJWTToken(user), HttpStatus.OK);
-//    }
-
-    private Map<String, String> generateJWTToken(User user){
+    private Map<String, String> generateJWTToken(User user) {
         long timestamp = System.currentTimeMillis();
         String token = Jwts.builder().signWith(SignatureAlgorithm.HS256, Constants.API_SECRET_KEY)
                 .setIssuedAt(new Date(timestamp))
