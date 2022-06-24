@@ -102,6 +102,9 @@ Command line prompts to see the outcome of postman posts as seen in the video
 ## Running application http://localhost:8080
 ![404error](https://user-images.githubusercontent.com/83961643/175511140-9f5fd955-40a6-4615-9740-7584b2c06e98.jpeg)
 
+## Checking errors in postman 
+![error](https://user-images.githubusercontent.com/83961643/175525921-5b0273d3-3b95-4a29-b8a1-d9f4114753ed.jpeg)
+![error1](https://user-images.githubusercontent.com/83961643/175525898-68e01ad2-bc46-4a20-9a0b-bc4501042723.jpeg)
 
 
 
