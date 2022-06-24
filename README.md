@@ -72,6 +72,9 @@ then add body - set to raw , JSON
 ![postman](https://user-images.githubusercontent.com/83961643/175246726-9f73bd31-98b2-4670-ae7c-536bff9a4310.jpeg)
 click send 
 
+![workingresponse](https://user-images.githubusercontent.com/83961643/175508343-b037f8be-b114-4fb9-a5a7-7c583d0469fd.jpeg)
+
+
 ## More File and Class creations
 Creating constructors, Getter and setter methods
 ![User_gettersandsetters](https://user-images.githubusercontent.com/83961643/175307574-ebc402ab-9de1-4fd5-88ee-55e1e85b4e18.jpeg)
@@ -79,6 +82,7 @@ Creating constructors, Getter and setter methods
 
 ## More posts on Postman 
 ![createwrongpost](https://user-images.githubusercontent.com/83961643/175343616-adbda3cd-a6ea-40d5-852e-0163a75446cd.jpeg)
+![postmanwronglogin](https://user-images.githubusercontent.com/83961643/175510831-279765b8-d712-4295-9276-50d05cbeccb7.jpeg)
 
 
 ## Adding missing dependencies to POM file 
@@ -93,6 +97,12 @@ Command line prompts to see the outcome of postman posts as seen in the video
 ## [JWT](https://jwt.io)
 ![jwt](https://user-images.githubusercontent.com/83961643/175350990-f921ee89-19b3-47ba-ad8f-f8147f04b314.jpeg)
 ![pastetoken](https://user-images.githubusercontent.com/83961643/175351033-915d4c25-9301-4b74-90ef-bd0324442252.jpeg)
+
+
+## Running application http://localhost:8080
+![404error](https://user-images.githubusercontent.com/83961643/175511140-9f5fd955-40a6-4615-9740-7584b2c06e98.jpeg)
+
+
 
 
 ## Last Edit June 2022
