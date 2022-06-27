@@ -69,11 +69,9 @@ public class UserRepositoryImpl implements UserRepository {
         return jdbcTemplate.queryForObject(SQL_FIND_BY_ID, new Object[]{userId}, userRowMapper);
     }
 
-    private RowMapper<User> userRowMapper = ((rs, rowNum) -> {
-        return new User(rs.getInt("USER_ID"),
-                rs.getString("FIRST_NAME"),
-                rs.getString("LAST_NAME"),
-                rs.getString("EMAIL"),
-                rs.getString("PASSWORD"));
-    });
+    private RowMapper<User> userRowMapper = ((rs, rowNum) -> new User(rs.getInt("USER_ID"),
+            rs.getString("FIRST_NAME"),
+            rs.getString("LAST_NAME"),
+            rs.getString("EMAIL"),
+            rs.getString("PASSWORD")));
 }

@@ -31,6 +31,7 @@ public class TransactionRepositoryImpl implements TransactionRepository {
         return jdbcTemplate.query(SQL_FIND_ALL, new Object[]{userId, categoryId}, transactionRowMapper);
     }
 
+
     @Override
     public Transaction findById(Integer userId, Integer categoryId, Integer transactionId) throws EtResourceNotFoundException {
         try {
