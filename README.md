@@ -106,6 +106,19 @@ Command line prompts to see the outcome of postman posts as seen in the video
 ![error](https://user-images.githubusercontent.com/83961643/175525921-5b0273d3-3b95-4a29-b8a1-d9f4114753ed.jpeg)
 ![error1](https://user-images.githubusercontent.com/83961643/175525898-68e01ad2-bc46-4a20-9a0b-bc4501042723.jpeg)
 
+## Running commands 
+![terminal](https://user-images.githubusercontent.com/83961643/175936317-e3f1ae87-d466-4108-b291-576d1ae38073.jpeg)
+![linked](https://user-images.githubusercontent.com/83961643/175936339-942b4b26-8af0-440d-ad0e-0dfb9f321cb5.jpeg)
+
+![workingposrts](https://user-images.githubusercontent.com/83961643/175936348-eaef6675-725b-41dd-a163-3726f8f48af0.jpeg)
+![commands](https://user-images.githubusercontent.com/83961643/175936364-5c6d91fe-3e86-4ae8-91da-ffd342964d3a.jpeg)
+
+![allfilescreated](https://user-images.githubusercontent.com/83961643/175936380-4b82d5b9-efdb-4cdb-9b50-797dbf32a8ee.jpeg)
+![exit](https://user-images.githubusercontent.com/83961643/175936391-c5515742-66f7-4821-97c4-3d9d92a870ca.jpeg)
+
+
+## Running the app 
+![startingmavenapp](https://user-images.githubusercontent.com/83961643/175936415-b96aa6ca-0df1-4f8c-ba60-b9e18dbb02ed.jpeg)
 
 
 ## Last Edit June 2022
